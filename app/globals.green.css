@@ -1,0 +1,49 @@
+/* 옵션 3: 프레시 그린 - 성장과 완료를 상징 */
+/* 이 파일의 내용을 globals.css의 :root와 .dark 섹션에 복사하여 사용하세요 */
+
+/* :root 섹션 */
+/* --primary: oklch(0.55 0.15 150); */
+/* --primary-foreground: oklch(0.98 0 0); */
+/* --secondary: oklch(0.96 0.01 150); */
+/* --secondary-foreground: oklch(0.3 0.1 150); */
+/* --muted: oklch(0.96 0.01 150); */
+/* --muted-foreground: oklch(0.5 0.02 150); */
+/* --accent: oklch(0.95 0.02 150); */
+/* --accent-foreground: oklch(0.3 0.1 150); */
+/* --ring: oklch(0.55 0.15 150); */
+/* --chart-1: oklch(0.55 0.15 150); */
+/* --chart-2: oklch(0.6 0.12 180); */
+/* --chart-3: oklch(0.65 0.1 120); */
+/* --chart-4: oklch(0.5 0.13 160); */
+/* --chart-5: oklch(0.45 0.12 140); */
+/* --sidebar-primary: oklch(0.55 0.15 150); */
+/* --sidebar-accent: oklch(0.96 0.01 150); */
+/* --sidebar-accent-foreground: oklch(0.3 0.1 150); */
+/* --sidebar-border: oklch(0.9 0.01 150); */
+/* --sidebar-ring: oklch(0.55 0.15 150); */
+
+/* .dark 섹션 */
+/* --background: oklch(0.12 0.01 150); */
+/* --card: oklch(0.18 0.02 150); */
+/* --popover: oklch(0.18 0.02 150); */
+/* --primary: oklch(0.6 0.15 150); */
+/* --primary-foreground: oklch(0.12 0.01 150); */
+/* --secondary: oklch(0.22 0.03 150); */
+/* --muted: oklch(0.22 0.03 150); */
+/* --muted-foreground: oklch(0.65 0.02 150); */
+/* --accent: oklch(0.25 0.04 150); */
+/* --border: oklch(0.25 0.02 150); */
+/* --input: oklch(0.25 0.02 150); */
+/* --ring: oklch(0.6 0.15 150); */
+/* --chart-1: oklch(0.6 0.15 150); */
+/* --chart-2: oklch(0.65 0.12 180); */
+/* --chart-3: oklch(0.7 0.1 120); */
+/* --chart-4: oklch(0.55 0.13 160); */
+/* --chart-5: oklch(0.5 0.12 140); */
+/* --sidebar: oklch(0.18 0.02 150); */
+/* --sidebar-primary: oklch(0.6 0.15 150); */
+/* --sidebar-primary-foreground: oklch(0.12 0.01 150); */
+/* --sidebar-accent: oklch(0.22 0.03 150); */
+/* --sidebar-border: oklch(0.25 0.02 150); */
+/* --sidebar-ring: oklch(0.6 0.15 150); */
+
